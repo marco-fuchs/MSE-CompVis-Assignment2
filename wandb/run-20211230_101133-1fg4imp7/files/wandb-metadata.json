@@ -1,0 +1,24 @@
+{
+    "os": "macOS-10.16-x86_64-i386-64bit",
+    "python": "3.8.12",
+    "heartbeatAt": "2021-12-30T09:11:40.143229",
+    "startedAt": "2021-12-30T09:11:33.532700",
+    "docker": null,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [
+        "-f",
+        "/Users/marco/Library/Jupyter/runtime/kernel-8ac4e3bd-024a-4d59-bbf6-d936601dd88a.json"
+    ],
+    "state": "running",
+    "program": "Desktop/MSE/Semester 1/CompVis/Notebooks/CompVis-Assignment2/CompVis_Assignment2_MarcoFuchs.ipynb",
+    "root": "/Users/marco/Desktop/MSE/Semester 1/CompVis/Notebooks/CompVis-Assignment2",
+    "git": {
+        "remote": "https://github.com/volpem/MSE-CompVis-Assignment2.git",
+        "commit": "ab47130167ae988a2e623e03c51c3aa24ff2140d"
+    },
+    "email": "71818081+volpem@users.noreply.github.com",
+    "host": "MacBook-Pro-von-Marco.local",
+    "username": "marco",
+    "executable": "/opt/anaconda3/envs/compvis/bin/python"
+}
